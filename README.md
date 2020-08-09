@@ -2,7 +2,9 @@
 Precipitation-elevation Regression on Independent Slope Models 
 
 ####################################################################################
+
 !!!!!! First of all TopoToolbox must downloaded and added to MATLAB file path !!!!!!
+
 ####################################################################################
 
 This function is provided for spatial interpolation of precipitation with monthly and annual time scales based on PRISM approach with distance, elevation, topographic FACET and coastal proximity weights taken into account. 
